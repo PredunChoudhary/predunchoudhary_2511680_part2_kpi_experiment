@@ -1,4 +1,4 @@
-# Part 2 – KPI Experiment Analysis
+# KPI Experiment Analysis
 
 ## Business Context
 
